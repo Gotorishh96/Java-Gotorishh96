@@ -1,5 +1,5 @@
-public class Rectangle{
-	public static void main(String args[]){
+public class Rectangle {
+	public static void main(String args[]) {
 		double l , b;
 		double area = 0.0;
 		double perimeter = 0.0;
@@ -10,4 +10,4 @@ public class Rectangle{
 				System.out.println("Area of the Rectangle = " + area);
 				System.out.println("Perimeter of the Rectangle = " + perimeter);
 			}
-	}
+		}
