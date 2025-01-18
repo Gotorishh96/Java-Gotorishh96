@@ -1,4 +1,4 @@
-// Compound Interest Program in Simple Java Languages following OOPS concepts
+ // Compound Interest Program in Simple Java Languages following OOPS concepts
 import java.util.Scanner;
 
 public class CompoundInterest {
