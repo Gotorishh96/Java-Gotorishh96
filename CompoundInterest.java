@@ -5,7 +5,7 @@ public class CompoundInterest {
       public static void main(String[] args) {
 
      // create an object of Scanner class
-    Scanner input = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
 
     // take input from users
     System.out.print("Enter the principal: ");
