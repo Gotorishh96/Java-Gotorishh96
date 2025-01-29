@@ -7,7 +7,7 @@ public class BreakContinue{
                i++;
                continue ;
            }
-           System.out.println( "i = " + i );
+            System.out.println( "i = " + i );
            if ( i > 8 ){
                break;
            }
